@@ -1,0 +1,14 @@
+景点1	景点2	距离(m)
+Main Street, U.S.A	Adventureland	200
+Main Street, U.S.A	Tomorrowland	600
+Adventureland	New Orleans Square	500
+Adventureland	Frontierland	600
+New Orleans Square	Frontierland	700
+New Orleans Square	Critter Country	500
+Frontierland	Fantasyland	300
+Frontierland	Star Wars Galaxy's Edge	600
+Critter Country	Star Wars Galaxy's Edge	500
+Fantasyland	Mickey's Toontown	800
+Fantasyland	Star Wars Galaxy's Edge	400
+Fantasyland	Tomorrowland	700
+Mickey's Toontown	Tomorrowland	1000

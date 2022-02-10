@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zhaoruiyang/CLionProjects/GraphCPro/Graph.cpp
+Graph.h
+/Users/zhaoruiyang/CLionProjects/GraphCPro/Graph.h
+iostream
+-
+fstream
+-
+sstream
+-
+vector
+-
+array
+-
+
+/Users/zhaoruiyang/CLionProjects/GraphCPro/Graph.h
+iostream
+-
+string
+-
+array
+-
+

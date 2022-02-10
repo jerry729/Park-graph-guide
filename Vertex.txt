@@ -1,0 +1,10 @@
+编号	名字	介绍
+0	Main Street, U.S.A	Disneyland gate
+1	Adventureland	Good resort
+2	Tomorrowland	Amazing
+3	New Orleans Square	Beautiful place
+4	Frontierland	Wonderful
+5	Critter Country	Nice
+6	Fantasyland	Still full of fantasy
+7	Star Wars Galaxy's Edge	Are you Star Wars fans?
+8	Mickey's Toontown	Shopping and eating place
